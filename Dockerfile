@@ -5,7 +5,7 @@ RUN apt-get update && \
     apt-get upgrade -y && \
     rm -rf /var/lib/apt/lists/*
 USER node
-RUN git clone https://github.com/mrfraank/SUBZERO.git /home/node/SUBZERO
+RUN git clone https://github.com/itzfrakaumbadev/SUBZERO.git /home/node/SUBZERO
 WORKDIR /home/node/SUBZERO
 RUN chmod -R 777 /home/node/SUBZERO/
 RUN yarn install --network-concurrency 1
