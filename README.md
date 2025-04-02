@@ -5,11 +5,11 @@
 </p>
 
   <p align="center">
-<a href="https://github.com/mrfraank/SUBZERO/followers"><img title="Followers" src="https://img.shields.io/github/followers/mrfraank?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfraank/SUBZERO/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrfraank/SUBZERO?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfraank/SUBZERO/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfraank/SUBZERO?color=blue&style=flat-square"></a>
-<a href="https://github.com/mrfraank/SUBZERO/"><img title="Size" src="https://img.shields.io/github/repo-size/mrfraank/SUBZERO?style=flat-square&color=green"></a>
-<a href="https://github.com/mrfraank/SUBZERO/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/itzfrankkaumbadev/SUBZERO/followers"><img title="Followers" src="https://img.shields.io/github/followers/itzfrankkaumbadev?color=blue&style=flat-square"></a>
+<a href="https://github.com/itzfrankkaumbadev/SUBZERO/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/itzfrankkaumbadev/SUBZERO?color=blue&style=flat-square"></a>
+<a href="https://github.com/itzfrankkaumbadev/SUBZERO/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrfraank/SUBZERO?color=blue&style=flat-square"></a>
+<a href="https://github.com/itzfrankkaumbadev/SUBZERO/"><img title="Size" src="https://img.shields.io/github/repo-size/itzfrankkaumbadev/SUBZERO?style=flat-square&color=green"></a>
+<a href="https://github.com/itzfrankkaumbadev/SUBZERO/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
